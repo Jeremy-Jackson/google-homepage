@@ -1,0 +1,16 @@
+li {
+  display: inline
+}
+.search{
+  width: 350px;
+  margin: 0 608px;
+}
+
+.btns {
+  width: 400px;
+  margin: 0 680px;
+  padding-top: 10px;
+}
+.googleimg{
+  margin: 0 650px;
+}
